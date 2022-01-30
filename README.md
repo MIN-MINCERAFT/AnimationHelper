@@ -23,6 +23,18 @@ AnimationHelper::setAnimation($player, NUMBER ID YOU WANT);
 ```
 </div>
 </details>
-    
+
+<details>
+<summary>Example</summary>
+<div markdown="2">
+
+```php
+use MIN\AnimationHelper\AnimationHelper;
+
+AnimationHelper::setAnimation($player, 10); //  10 is heart animation
+```
+</div>
+</details>
+
 ![Minecraft 2022-01-31 오전 12_42_01](https://user-images.githubusercontent.com/61784655/151706607-dea7a024-3933-415a-970a-22e52db2cbfc.png)
     
